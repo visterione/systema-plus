@@ -1,0 +1,19 @@
+.btn-default, .btn-default:hover, .btn-default:active, .btn-default:focus,
+.color-bg,
+.news-title,
+.bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active, .owl-page.active, .owl-page:hover {
+	background: #FF7D2C;
+}
+a, a:hover, a:focus,
+.colorful,
+blockquote:before, blockquote:after,
+.more-link a {
+	color: #FF7D2C;
+}
+.social-icon {
+	background-color: #FF7D2C;
+}
+.modal-link,
+.more-link a {
+	border-color: #FF7D2C;
+}

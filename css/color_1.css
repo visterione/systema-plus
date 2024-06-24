@@ -1,0 +1,10 @@
+a:hover {
+	color: #DB9400;
+}
+.modal-link:hover, .more-link a:hover {
+    border-color: #DB9400;
+}
+.select-tariff-hover,
+.select-tariff-hover .price {
+	color: #DB9400 !important;
+}

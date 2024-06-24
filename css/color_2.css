@@ -1,0 +1,16 @@
+.nav>li>a:focus, .nav>li>a:hover, .nav>li>a.active {
+    background-color: #C70F19;
+}
+h4 small, .h4 small,
+h2 span, .h2 span, h3 span, .h3 span,
+.header a,
+span.price {
+	color: #C70F19;
+}
+.nav-tabs.nav-justified>.active>a, .nav-tabs.nav-justified>.active>a:focus, .nav-tabs.nav-justified>.active>a:hover,
+.service-name {
+    background: #C70F19;
+}
+.ymaps-image-with-content{
+    background-image: url('../images/map_marker4.png') !important;
+}
